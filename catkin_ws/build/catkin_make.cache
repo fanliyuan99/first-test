@@ -1,0 +1,2 @@
+messager
+-DCATKIN_DEVEL_PREFIX=/home/fan/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fan/catkin_ws/install -G Unix Makefiles
